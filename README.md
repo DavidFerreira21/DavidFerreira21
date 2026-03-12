@@ -1,7 +1,18 @@
 ![banner](https://raw.githubusercontent.com/DavidFerreira21/DavidFerreira21/main/banner.jpg)
-💻 **Cloud Platform Engineer | AWS | Terraform | Kubernetes | Platform Engineering**
 
-Engenheiro de Plataforma Cloud com mais de **16 anos de experiência** projetando, automatizando e operando ambientes corporativos em larga escala, atuando tanto em **On-Premises quanto em Cloud**, com forte foco em **AWS**.
+
+<h1 align="center">David Ferreira</h1>
+
+<p align="center">
+Cloud Platform Engineer | AWS | Terraform | Kubernetes | Platform Engineering
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,python,linux,git"/>
+</p>
+
+
+Engenheiro de Plataforma Cloud com mais de 16 anos de experiência projetando, automatizando e operando ambientes corporativos em larga escala, tanto em ambientes On-Premises quanto em Cloud, com forte foco em AWS.
 
 Minha atuação é bastante **hands-on**, focada em **Platform Engineering, Infrastructure as Code e automação de ambientes cloud escaláveis, resilientes e seguros**.
 
@@ -16,6 +27,7 @@ Tenho experiência na construção e evolução de **plataformas cloud corporati
 - Apoio a times de engenharia e DevOps em **deploys, troubleshooting e evolução de plataformas**
 
 ---
+
 
 # 🚀 Tecnologias
 
@@ -61,18 +73,12 @@ https://github.com/DavidFerreira21/api-account-factory
 
 Escrevo sobre **Cloud Architecture, Terraform, Kubernetes, Platform Engineering e governança de ambientes cloud**.
 
-📖  
-https://davidferreira.blog
+📖  https://davidferreira.blog
+
+
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidFerreira21&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidFerreira21&layout=compact)
-
----
 
 # 📫 Contato
 
@@ -85,17 +91,7 @@ https://davidferreira.blog
 💻 GitHub  
 https://github.com/DavidFerreira21
 
-<!--
-**DavidFerreira21/DavidFerreira21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,python,linux,git"/>
+</p>
