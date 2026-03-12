@@ -44,10 +44,10 @@ Tenho experiência na construção e evolução de **plataformas cloud corporati
 
 - ☁️ **AWS Certified Solutions Architect – Associate**
 - ☁️ **AWS Certified SysOps Administrator – Associate**
+- 🌍 **HashiCorp Certified: Terraform Associate**
 - 🖥 **VMware VCP 6.7**
 - 🪟 **MCSA Windows Server**
 - 📧 **MCSA Exchange Server**
-
 ---
 
 # 📦 Projetos em Destaque
