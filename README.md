@@ -1,5 +1,4 @@
-# 👋 Olá, eu sou o David Ferreira
-
+![banner](https://raw.githubusercontent.com/DavidFerreira21/DavidFerreira21/main/banner.jpg)
 💻 **Cloud Platform Engineer | AWS | Terraform | Kubernetes | Platform Engineering**
 
 Engenheiro de Plataforma Cloud com mais de **16 anos de experiência** projetando, automatizando e operando ambientes corporativos em larga escala, atuando tanto em **On-Premises quanto em Cloud**, com forte foco em **AWS**.
